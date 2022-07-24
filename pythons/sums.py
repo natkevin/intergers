@@ -57,3 +57,4 @@ b = int(input('Enter 2nd number: '))
 
 # Display the result with call a method multiplication
 print(f'Multiplication of {a} and {b} is {multiplication(a, b)}')
+
