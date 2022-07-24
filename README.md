@@ -22,9 +22,9 @@ https://www.mycompiler.io/new/lua
 - 1 Ouput
 
 - method AddIntegers(a, b): 
-- BEGIN
-  \t c = a + b
-  \t RETURN c
+- BEGIN \
+  &emsp; c = a + b \
+  &emsp; RETURN c \
   END 
 
 
@@ -32,6 +32,6 @@ https://www.mycompiler.io/new/lua
 - n Input parameters and or m result as global varibles
 
 - method AddIntegers(a, b, c): 
-- BEGIN
-      \t c = a + b
+- BEGIN \
+  &emsp; c = a + b
   END 
