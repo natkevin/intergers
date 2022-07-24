@@ -21,17 +21,17 @@ https://www.mycompiler.io/new/lua
 - n Input parameters
 - 1 Ouput
 
-method AddIntegers(a, b):
-  BEGIN
-    c = a + b
-    RETURN c
-  END
+method AddIntegers(a, b): \
+  BEGIN \
+    c = a + b \
+    RETURN c \
+  END \
 
 
 # as Procedure
 - n Input parameters and or m result as global varibles
 
-method AddIntegers(a, b, c):
-  BEGIN
-  c = a + b
-  END
+method AddIntegers(a, b, c): \
+  BEGIN \
+  c = a + b \
+  END \
