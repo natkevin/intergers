@@ -23,8 +23,8 @@ https://www.mycompiler.io/new/lua
 
 - method AddIntegers(a, b): \
 - BEGIN \
-    c = a + b \
-    RETURN c \
+        c = a + b \
+        RETURN c \
   END 
 
 
@@ -33,5 +33,5 @@ https://www.mycompiler.io/new/lua
 
 - method AddIntegers(a, b, c): \
 - BEGIN \
-  c = a + b \
+      c = a + b \
   END 
