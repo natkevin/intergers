@@ -25,7 +25,7 @@ method AddIntegers(a, b): \
   BEGIN \
     c = a + b \
     RETURN c \
-  END \
+  END 
 
 
 # as Procedure
@@ -34,4 +34,4 @@ method AddIntegers(a, b): \
 method AddIntegers(a, b, c): \
   BEGIN \
   c = a + b \
-  END \
+  END 
