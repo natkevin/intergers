@@ -13,3 +13,15 @@ https://go.dev/play/
 
 3. LUA
 https://www.mycompiler.io/new/lua
+
+
+
+# METHODS -- as Function
+- n Input parameters
+- 1 Ouput
+
+method AddIntegers(a, b):
+BEGIN
+  c = a + b
+  RETURN c
+END
