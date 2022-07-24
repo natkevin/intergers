@@ -33,5 +33,5 @@ https://www.mycompiler.io/new/lua
 
 - method AddIntegers(a, b, c): 
 - BEGIN \
-  &emsp; c = a + b
+  &emsp; c = a + b \
   END 
