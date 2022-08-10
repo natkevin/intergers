@@ -2,9 +2,9 @@ def check_real_number_01(number):
     """
     The method for checking the real number is POSITVE/NEGATIVE
     INPUT:
-      - number<number is variable as paramater > : numeric< >
+      - number <variable as paramater> : numeric <type as numeric>
     OUPUT:
-      - information : string
+      - information <variable as goal/result/output> : string <type as string>
     """
     
     if (number >= 0):
