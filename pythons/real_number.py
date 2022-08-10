@@ -2,7 +2,7 @@ def check_real_number_01(number):
     """
     The method for checking the real number is POSITVE/NEGATIVE
     INPUT:
-      - number : numeric
+      - number<number is variable as paramater > : numeric< >
     OUPUT:
       - information : string
     """
