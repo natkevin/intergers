@@ -56,6 +56,21 @@ print(f'Division of {a} and {b} is {division(a, b)}')
 
 
 
+# Method as Function of substract 2 floats
+def substract(a, b):
+    return (a - b)
+
+# Input a as First Number
+a = float(input('Enter 1st number: '))
+
+# Input b as Second Number
+b = float(input('Enter 2nd number: '))
+
+# Display the result with call a method substract
+print(f'Substract of {a} and {b} is {substract(a, b)}')
+
+
+
 
 # Method as Function of multiplication 2 integers
 def multiplication(a, b):
