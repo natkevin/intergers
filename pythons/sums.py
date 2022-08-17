@@ -11,6 +11,18 @@ b = int(input('Enter 2nd number: '))
 # Display the result with call a method sum
 print(f'Sum of {a} and {b} is {sum(a, b)}')
 
+# TYPE DATA FLOAT 
+def sum(a, b):
+    return (a + b)
+
+# Input a as First Number
+a = float(input('Enter 1st number: '))
+
+# Input b as Second Number
+b = float(input('Enter 2nd number: '))
+
+# Display the result with call a method sum
+print(f'Sum of {a} and {b} is {sum(a, b)}')
 
 
 # Method as Function of substract 2 integers
@@ -57,4 +69,6 @@ b = int(input('Enter 2nd number: '))
 
 # Display the result with call a method multiplication
 print(f'Multiplication of {a} and {b} is {multiplication(a, b)}')
+
+
 
