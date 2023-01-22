@@ -3,7 +3,7 @@ def variable_y(x):
     """Function to calculate reverse comparison
     from the case if x = -2, then y = 9
     base a formula y = a/x, then a = x*y
-                    y = -2 * 9 = -18
+                    a = -2 * 9 = -18
       -- length_x as Numeric
       -- length_y as Numeric with default value = 90
     - Ouput:
